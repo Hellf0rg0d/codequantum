@@ -1,7 +1,7 @@
 name: codequantum
-description: "A new Flutter project."
+description: "HomePage for CODEQUANTUM.IN"
 publish_to: 'none'
-version: 0.1.0
+version: 2
 
 environment:
   sdk: ^3.6.1
@@ -16,7 +16,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-
+  rainbow_edge_lighting: ^1.0.9
 flutter:
   uses-material-design: true
   fonts:
